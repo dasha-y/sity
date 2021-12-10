@@ -22,7 +22,7 @@ h1{
 	font-family: 'Arimo', sans-serif;
 }
 h2{
-	font-size: 50px;
+	font-size: 30px;
 	font-family: 'Arimo', sans-serif;
 }
 .menu {
@@ -90,7 +90,12 @@ h2{
 	.menu a{
 		font-size: 50px;
 	}
-
+h2{
+	font-size: 50px;
+}
+.n{
+font-size: 25px;
+}
 	.content{
 	
 	display: grid;
