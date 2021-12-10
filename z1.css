@@ -18,10 +18,11 @@ body{
 		vertical-align: middle;
 }
 h1{
-	font-size: 50px;
+	font-size: 70px;
 	font-family: 'Arimo', sans-serif;
 }
 h2{
+	font-size: 50px;
 	font-family: 'Arimo', sans-serif;
 }
 .menu {
@@ -84,7 +85,7 @@ h2{
 	}
 	.img_body{
 
-		width: 500px;
+		width: 700px;
 	}
 
 	.content{
